@@ -47,5 +47,6 @@ Currently, I'm looking for an exciting new project to which I can relate and dep
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
 </div>  
-<br/>  
+
+
 ![Profile views](https://gpvc.arturio.dev/aachaval)  
