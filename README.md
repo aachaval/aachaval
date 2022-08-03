@@ -1,10 +1,3 @@
-<style>
-table, th, td {
-  border-style:hidden;
-}
-</style>
-
-
 <h3 align="left">Hi there 👋, my name is Alberto!</h3>
 
 <img src="https://github.com/aachaval/aachaval/blob/main/banner.jpg" alt="drawing" width="1000"/>
@@ -15,7 +8,7 @@ Finding insights in data and presenting it in a practical and beautiful way has 
 Currently, I'm looking for an exciting new project to which I can relate and deploy my skills, and continue learning more about this fascinating world.
 
 <h3 align="left">My skill set</h3> 
-<table border="0"><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%">
 
 ### Data Science  
 <div align="center">  
