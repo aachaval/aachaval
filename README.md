@@ -10,7 +10,7 @@ Currently, I'm looking for an exciting new project to which I can relate and dep
 
 <h3 align="left">Languages and Tools:</h3>
 
-### My skill set  
+## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -24,7 +24,7 @@ Currently, I'm looking for an exciting new project to which I can relate and dep
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
 </div>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="33%">
 
 
 
@@ -38,7 +38,14 @@ Currently, I'm looking for an exciting new project to which I can relate and dep
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
 </div>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
+
+<br/>  
+
 
 <h3 align="left">Contact me:</h3>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aachaval)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/albertoachaval/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/albertoar)  
