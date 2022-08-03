@@ -8,7 +8,6 @@ Finding insights in data and presenting it in a practical and beautiful way has 
 Currently, I'm looking for an exciting new project to which I can relate and deploy my skills, and continue learning more about this fascinating world.
 
 <h3 align="left">My skill set</h3> 
-<table><tr><td valign="top" width="50%">
 
 ### Data Science  
 <div align="center">  
@@ -19,7 +18,7 @@ Currently, I'm looking for an exciting new project to which I can relate and dep
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
 </div>
 
-</td><td valign="top" width="50%">
+
 
 ### Others  
 <div align="center">  
@@ -31,7 +30,7 @@ Currently, I'm looking for an exciting new project to which I can relate and dep
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
 </div>
 
-</td></tr></table>  
+
 
 <h3 align="left">Contact me</h3>
 <div align="left">
