@@ -48,5 +48,4 @@ Currently, I'm looking for an exciting new project to which I can relate and dep
 </a>  
 </div>  
 
-</n>  
-![Profile views](https://gpvc.arturio.dev/aachaval)  
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
