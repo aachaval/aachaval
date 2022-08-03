@@ -2,7 +2,6 @@
 
 <img src="https://github.com/aachaval/aachaval/blob/main/banner.jpg" alt="drawing" width="1000"/>
 <br/>
-
 ### Abou me
 Finding insights in data and presenting it in a practical and beautiful way has always sparked my interest and creativity and led me to specialize as a Python data scientist. I recently finished an intensive bootcamp on this topic taught by IT ACADEMY in Barcelona. Also I complemented with other technologies like JavaScript, SQl, No SQL, Power BI, Tableau, Tensorflow, Keras, Pytorch and more.
 
