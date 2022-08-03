@@ -6,12 +6,9 @@
 Finding insights in data and presenting it in a practical and beautiful way has always sparked my interest and creativity and led me to specialize as a Python data scientist. I recently finished an intensive bootcamp on this topic taught by IT ACADEMY in Barcelona. Also I complemented with other technologies like JavaScript, SQl, No SQL, Power BI, Tableau, Tensorflow, Keras, Pytorch and more.
 
 Currently, I'm looking for an exciting new project to which I can relate and deploy my skills, and continue learning more about this fascinating world.
-<br/>
 
 <h3 align="left">My skill set</h3> 
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Data Science  
 <div align="center">  
@@ -23,8 +20,6 @@ Currently, I'm looking for an exciting new project to which I can relate and dep
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Others  
 <div align="center">  
@@ -38,12 +33,7 @@ Currently, I'm looking for an exciting new project to which I can relate and dep
 
 </td><td valign="top" width="33%">
 
-
-
 </td></tr></table>  
-
-<br/>  
-
 
 <h3 align="left">Contact me</h3>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aachaval)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/albertoachaval/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/albertoar)  
