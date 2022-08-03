@@ -1,4 +1,8 @@
-## Hi there! 👋, my name is Alberto
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+<h3 align="left">My name is Alberto</h3>
 
 <img src="https://github.com/aachaval/aachaval/blob/main/banner.jpg" alt="drawing" width="1000"/>
 <br/>
