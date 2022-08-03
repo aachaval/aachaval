@@ -31,8 +31,6 @@ Currently, I'm looking for an exciting new project to which I can relate and dep
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
 </td></tr></table>  
 
 <h3 align="left">Contact me</h3>
