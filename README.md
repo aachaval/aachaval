@@ -1,3 +1,10 @@
+<style>
+table, th, td {
+  border-style:hidden;
+}
+</style>
+
+
 <h3 align="left">Hi there 👋, my name is Alberto!</h3>
 
 <img src="https://github.com/aachaval/aachaval/blob/main/banner.jpg" alt="drawing" width="1000"/>
