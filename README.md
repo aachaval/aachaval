@@ -17,7 +17,7 @@ Looking for an exciting new project where I can envolve myself as part of a team
 </div>
 
 <h3 align="left">Projects</h3>
-SQL practice from bootcamp (https://github.com/aachaval/Database_MySQL/blob/main/S13_T02_MySQL_Database.ipynb/)
+<a href="https://github.com/aachaval/Database_MySQL/blob/main/S13_T02_MySQL_Database.ipynb/">SQL practice from bootcamp.</a>
 
 <h3 align="left">Contact me</h3>
 <div align="left">
