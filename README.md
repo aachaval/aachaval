@@ -16,6 +16,8 @@ Looking for an exciting new project where I can envolve myself as part of a team
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
 </div>
 
+<h3 align="left">Projects</h3>
+[Easy SQL excersice with Jupyter Notebook] (https://github.com/aachaval/Database_MySQL/blob/main/S13_T02_MySQL_Database.ipynb)).
 
 <h3 align="left">Contact me</h3>
 <div align="left">
