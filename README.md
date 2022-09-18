@@ -5,7 +5,7 @@
 <h3 align="left">About me</h3> 
 Finding insights in data and presenting them in a practical and beautiful way has always sparked my interest and creativity and led me to specialize as a Python Data Scientist and Data Analyst. I recently finished an intensive bootcamp on this topic taught by IT ACADEMY in Barcelona.
 
-Looking for an exciting new project where I can envolve myself as part of a team, deploy my skills, and continue to learn more about this fascinating world..
+Looking for an exciting new project where I can envolve myself as part of a team, deploy my skills, and continue to learn more about this fascinating world.
 
 <h3 align="left">My skill set</h3> 
 
@@ -13,7 +13,6 @@ Looking for an exciting new project where I can envolve myself as part of a team
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
 </div>
 
