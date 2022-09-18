@@ -3,9 +3,9 @@
 <img src="https://github.com/aachaval/aachaval/blob/main/banner.jpg" alt="drawing" width="1000"/>
 
 <h3 align="left">About me</h3> 
-Finding insights in data and presenting it in a practical and beautiful way has always sparked my interest and creativity and led me to specialize as a Python data scientist. I recently finished an intensive bootcamp on this topic taught by IT ACADEMY in Barcelona. Also I complemented with other technologies like JavaScript, SQl, No SQL, Power BI, Tableau, Tensorflow, Keras, Pytorch and more.
+Finding insights in data and presenting them in a practical and beautiful way has always sparked my interest and creativity and led me to specialize as a Python Data Scientist and Data Analyst. I recently finished an intensive bootcamp on this topic taught by IT ACADEMY in Barcelona.
 
-Currently, I'm looking for an exciting new project to which I can relate and deploy my skills, and continue learning more about this fascinating world.
+Looking for an exciting new project where I can envolve myself as part of a team, deploy my skills, and continue to learn more about this fascinating world..
 
 <h3 align="left">My skill set</h3> 
 
