@@ -1,6 +1,6 @@
 <h3 align="left">Hi there 👋, my name is Alberto!</h3>
 
-<img src="https://github.com/aachaval/aachaval/blob/main/banner.jpg" alt="drawing" width="1000"/>
+<img src="https://github.com/aachaval/aachaval/blob/main/Industrial%20Engineer.jpg" width="1000"/>
 
 <h3 align="left">About me</h3> 
 Finding insights in data and presenting them in a practical and beautiful way has always sparked my interest and creativity and led me to specialize as a Python Data Scientist and Data Analyst. I recently finished an intensive bootcamp on this topic taught by IT ACADEMY in Barcelona.
