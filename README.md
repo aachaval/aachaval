@@ -12,7 +12,7 @@ I build practical, business-oriented data solutions using Power BI, SQL, Python,
 - Develop analytics solutions, including forecasting and segmentation  
 - Apply machine learning (regression & classification) to real business cases  
 
-<h3 align="left" id="macropower-title">:🛠️: Skills & Tools</h3>
+<h3 align="left" id="macropower-title">:hammer_and_wrench: Skills & Tools</h3>
 
 <h3 align="left">Projects</h3>
 <a href="https://github.com/aachaval/Database_MySQL/blob/main/S13_T02_MySQL_Database.ipynb/">SQL practice</a><br/>
