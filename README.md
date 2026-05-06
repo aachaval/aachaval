@@ -41,7 +41,7 @@ Open to freelance data projects
 
 
 
-<h3 align="left" id="macropower-title">💌: Let's connect</h3>
+<h3 align="left" id="macropower-title">:love_letter: Let's connect</h3>
 
 <div align="left">
 
