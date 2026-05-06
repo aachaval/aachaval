@@ -1,8 +1,9 @@
 <h3 align="left" id="macropower-title">:wave: Hi, I'm Alberto</h3>
 
-Data Analyst with a degree in Industrial Engineering, focused on helping businesses turn data into decisions through dashboards, reporting automation, and advanced analytics.
+I'm a Data Analyst with a degree in Industrial Engineering, focused on turning data into decisions.
 
-I build practical, business-oriented data solutions using Power BI, SQL, Python, and Excel.
+I enjoy working on practical data problems — building dashboards, automating reporting, and finding ways to make data actually useful for businesses.
+
 
 <h3 align="left" id="macropower-title">:rocket: What I Do</h3>
 
