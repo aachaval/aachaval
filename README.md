@@ -26,6 +26,11 @@ Based in Girona, Spain.
 <h3 align="left" id="macropower-title">:bar_chart: Projects</h3>
 Here are some of the things I’ve been working on:  
 
+### 📊 Sales & Shipping Dashboard  
+Automated Excel dashboard for sales and shipping analysis using Power Query and Power Pivot.  
+
+👉 [View Project](https://github.com/aachaval/Sales-dashboard-in-Excel)
+
 <!--
 <a href="https://github.com/aachaval/Database_MySQL/blob/main/S13_T02_MySQL_Database.ipynb/">SQL practice</a><br/>
 <a href="https://github.com/aachaval/NoSQL_Database/blob/main/S14_T01_%20No_SQL_Database.ipynb">MongoDB</a><br/>
