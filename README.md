@@ -21,12 +21,9 @@ Apply simple machine learning models (forecasting, classification, etc.)
 - Power Query, DAX
 
 
-
-
-
-
 <h3 align="left">Projects</h3>
-Here are some of the things I’ve been working on:
+Here are some of the things I’ve been working on:  
+
 <a href="https://github.com/aachaval/Database_MySQL/blob/main/S13_T02_MySQL_Database.ipynb/">SQL practice</a><br/>
 <a href="https://github.com/aachaval/NoSQL_Database/blob/main/S14_T01_%20No_SQL_Database.ipynb">MongoDB</a><br/>
 <a href="https://github.com/aachaval/Unsupervised_Learning-_Clustering/blob/main/S11_T01_Unsupervised_Learning%20_Clustering.ipynb">Clustering practice</a><br/>
