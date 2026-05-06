@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">:wave: Hi, I'm Alberto</h1>
+<h3 align="left" id="macropower-title">:wave: Hi, I'm Alberto</h3>
 
 Data Analyst with a degree in Industrial Engineering, focused on helping businesses turn data into decisions through dashboards, reporting automation, and advanced analytics.
 
@@ -11,6 +11,8 @@ I build practical, business-oriented data solutions using Power BI, SQL, Python,
 - Clean, transform, and model data for analysis  
 - Develop analytics solutions, including forecasting and segmentation  
 - Apply machine learning (regression & classification) to real business cases  
+
+<h3 align="left" id="macropower-title">:🛠️: Skills & Tools</h3>
 
 <h3 align="left">Projects</h3>
 <a href="https://github.com/aachaval/Database_MySQL/blob/main/S13_T02_MySQL_Database.ipynb/">SQL practice</a><br/>
