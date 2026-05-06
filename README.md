@@ -41,8 +41,8 @@ Here are some of the things I’ve been working on:
 
 <h3 align="left" id="macropower-title">:dart: Currently</h3>
 
-Open to full-time Data Analyst roles  
-Open to freelance data projects  
+- Open to full-time Data Analyst roles
+- Open to freelance data projects  
 
 
 
