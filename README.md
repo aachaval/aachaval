@@ -1,20 +1,16 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Alberto</h1>
+<h1 align="left" id="macropower-title">:wave: Hi, I'm Alberto</h1>
 
-<h3 align="left">About me</h3> 
-Data Analyst with a background in Industrial Engineering and experience in business-oriented data solutions.
+Data Analyst with a degree in Industrial Engineering, focused on helping businesses turn data into decisions through dashboards, reporting automation, and advanced analytics.
 
-I focus on turning data into actionable insights through dashboards, reporting automation, and applied analytics. My work includes building data models, developing Power BI dashboards, and working with SQL and Python to solve real-world business problems.
+I build practical, business-oriented data solutions using Power BI, SQL, Python, and Excel.
 
-Interested in projects involving data analysis, business intelligence, and data-driven decision making.
+<h1 align="left" id="macropower-title">:rocket: What I Do</h1>
 
-<h3 align="left">My skill set</h3> 
-
-<div align="left">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
-</div>
+- Build dashboards and data visualizations to support decision-making  
+- Automate reporting processes and data workflows  
+- Clean, transform, and model data for analysis  
+- Develop analytics solutions, including forecasting and segmentation  
+- Apply machine learning (regression & classification) to real business cases  
 
 <h3 align="left">Projects</h3>
 <a href="https://github.com/aachaval/Database_MySQL/blob/main/S13_T02_MySQL_Database.ipynb/">SQL practice</a><br/>
