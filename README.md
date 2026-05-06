@@ -5,11 +5,11 @@ I enjoy working on practical data problems — building dashboards, automating r
 
 
 <h3 align="left" id="macropower-title">:rocket: What I Do</h3>
-Build dashboards (mainly with Power BI and Excel)  
-Automate reporting processes  
-Work with SQL and Python to clean and analyze data  
-Explore data to find insights and patterns  
-Apply simple machine learning models (forecasting, classification, etc.)  
+Build dashboards (mainly with Power BI and Excel)    
+Automate reporting processes    
+Work with SQL and Python to clean and analyze data    
+Explore data to find insights and patterns    
+Apply simple machine learning models (forecasting, classification, etc.)    
 
 
 <h3 align="left" id="macropower-title">:hammer_and_wrench: Tools I Use</h3>
@@ -21,7 +21,7 @@ Apply simple machine learning models (forecasting, classification, etc.)
 - Power Query, DAX
 
 
-<h3 align="left">Projects</h3>
+<h3 align="left" id="macropower-title">:bar_chart: Projects</h3>
 Here are some of the things I’ve been working on:  
 
 <a href="https://github.com/aachaval/Database_MySQL/blob/main/S13_T02_MySQL_Database.ipynb/">SQL practice</a><br/>
@@ -34,8 +34,8 @@ Here are some of the things I’ve been working on:
 👉 More coming soon
 
 <h3 align="left" id="macropower-title">:dart: Currently</h3>
--  Open to full-time Data Analyst roles  
--  Open to freelance data projects  
+-  Open to full-time Data Analyst roles    
+-  Open to freelance data projects    
 
 
 <h3 align="left">Contact me</h3>
