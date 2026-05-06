@@ -19,7 +19,7 @@ Based in Girona, Spain.
 
 - Power BI
 - SQL
-- Python (pandas, numpy)
+- Python (Pandas, Numpy, Scikit-learn)
 - Excel
 - Power Query, DAX
 
