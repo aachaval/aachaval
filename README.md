@@ -41,21 +41,15 @@ Open to freelance data projects
 
 
 
-<h3 align="left">Contact me</h3>
+<h3 align="left" id="macropower-title">💌: Let's connect</h3>
+
 <div align="left">
-<a href="https://github.com/aachaval" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://linkedin.com/in/albertoachaval" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.kaggle.com/albertoar" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
+
 </div>  
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=aachaval&&style=flat-square" align="center" />
-</div>  
