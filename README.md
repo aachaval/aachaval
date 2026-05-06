@@ -5,12 +5,12 @@ I enjoy working on practical data problems — building dashboards, automating r
 
 
 <h3 align="left" id="macropower-title">:rocket: What I Do</h3>
-- Build dashboards (mainly with Power BI)  
-- Automate reporting processes  
-- Work with SQL and Python to clean and analyze data  
-- Explore data to find insights and patterns  
-- Apply simple machine learning models (forecasting, classification, etc.)  
- 
+Build dashboards (mainly with Power BI and Excel)  
+Automate reporting processes  
+Work with SQL and Python to clean and analyze data  
+Explore data to find insights and patterns  
+Apply simple machine learning models (forecasting, classification, etc.)  
+
 
 <h3 align="left" id="macropower-title">:hammer_and_wrench: Tools I Use</h3>
 
