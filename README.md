@@ -36,7 +36,7 @@ Here are some of the things I’ve been working on:
 <a href="https://github.com/aachaval/Clasificacion-erupciones-volcanicas">Clasificación Erupciones Volcánicas - Random Forest Classifier</a><br/>
 -->  
 
-More coming soon!  
+*More coming soon!*  
 
 
 <h3 align="left" id="macropower-title">:dart: Currently</h3>
