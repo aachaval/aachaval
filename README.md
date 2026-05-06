@@ -1,4 +1,4 @@
-<img src="https://github.com/aachaval/aachaval/blob/main/banner.png" width="1000"/>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Alberto</h1>
 
 <h3 align="left">About me</h3> 
 Data Analyst with a background in Industrial Engineering and experience in business-oriented data solutions.
