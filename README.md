@@ -4,7 +4,7 @@ Data Analyst with a degree in Industrial Engineering, focused on helping busines
 
 I build practical, business-oriented data solutions using Power BI, SQL, Python, and Excel.
 
-<h1 align="left" id="macropower-title">:rocket: What I Do</h1>
+<h3 align="left" id="macropower-title">:rocket: What I Do</h3>
 
 - Build dashboards and data visualizations to support decision-making  
 - Automate reporting processes and data workflows  
