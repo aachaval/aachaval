@@ -14,10 +14,12 @@ I enjoy working on practical data problems — building dashboards, automating r
 
 <h3 align="left" id="macropower-title">:hammer_and_wrench: Tools I Use</h3>
 - Power BI  
-- SQL  
-- Python (pandas, numpy)  
+- SQL    
+- Python (pandas, numpy)    
 - Excel  
-- Power Query, DAX
+- Power Query, DAX  
+
+
 
 
 
