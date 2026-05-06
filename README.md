@@ -5,7 +5,7 @@ I enjoy working on practical data problems — building dashboards, automating r
 
 Based in Girona, Spain.
 
-<img src="https://your-image-link.com" width="250" align="right"/>
+<img src="skills.jpg" width="250" align="right"/>
 
 <h3 align="left" id="macropower-title">:rocket: What I Do</h3>
 
