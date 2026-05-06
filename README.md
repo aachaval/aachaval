@@ -27,9 +27,8 @@ Based in Girona, Spain.
 Here are some of the things I’ve been working on:  
 
 ### 📊 Sales & Shipping Dashboard  
-Automated Excel dashboard for sales and shipping analysis using Power Query and Power Pivot.  
-
-👉 [View Project](https://github.com/aachaval/Sales-dashboard-in-Excel)
+- Automated Excel dashboard for sales and shipping analysis using Power Query and Power Pivot. 👉 [View Project](https://github.com/aachaval/Sales-dashboard-in-Excel)
+- 
 
 <!--
 <a href="https://github.com/aachaval/Database_MySQL/blob/main/S13_T02_MySQL_Database.ipynb/">SQL practice</a><br/>
