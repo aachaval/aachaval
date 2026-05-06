@@ -27,15 +27,8 @@ Based in Girona, Spain.
 Here are some of the things I’ve been working on:  
   
 - **Sales & Shipping Dashboard**: automated Excel dashboard using Power Query and Power Pivot. 👉 [View Project](https://github.com/aachaval/Sales-dashboard-in-Excel)
+- **Sales & Profit Dashboard (Power BI)**: interactive BI solution to track performance, identify key markets, and support data-driven decisions. 👉 👉 [View Project](https://github.com/aachaval/Sales-Profit-dashboard-Power-BI)
 
-<!--
-<a href="https://github.com/aachaval/Database_MySQL/blob/main/S13_T02_MySQL_Database.ipynb/">SQL practice</a><br/>
-<a href="https://github.com/aachaval/NoSQL_Database/blob/main/S14_T01_%20No_SQL_Database.ipynb">MongoDB</a><br/>
-<a href="https://github.com/aachaval/Unsupervised_Learning-_Clustering/blob/main/S11_T01_Unsupervised_Learning%20_Clustering.ipynb">Clustering practice</a><br/>
-<a href="https://github.com/aachaval/Machine_Learning_Advanced/blob/main/S12_T01_Pipelines_grid_search_and_text_mining.ipynb">Machine Learning practice</a><br/>
-<a href="https://github.com/aachaval/Graphic_Display_Multiples_Variables/blob/main/S03_T02_Graphic_Display_Multiples_Variables.ipynb">Data Analysis</a><br/>
-<a href="https://github.com/aachaval/Clasificacion-erupciones-volcanicas">Clasificación Erupciones Volcánicas - Random Forest Classifier</a><br/>
--->  
 
 *More coming soon!*  
 
