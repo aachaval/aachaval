@@ -1,11 +1,11 @@
-<h3 align="left">Hi there 👋, my name is Alberto!</h3>
-
 <img src="https://github.com/aachaval/aachaval/blob/main/banner.png" width="1000"/>
 
 <h3 align="left">About me</h3> 
-Finding insights in data and presenting them in a practical and beautiful way has always sparked my interest and creativity and led me to specialize as a Python Data Scientist and Data Analyst. I recently finished an intensive bootcamp on this topic taught by IT ACADEMY in Barcelona.
+Data Analyst with a background in Industrial Engineering and experience in business-oriented data solutions.
 
-Looking for an exciting new project where I can envolve myself as part of a team, deploy my skills, and continue to learn more about this fascinating world.
+I focus on turning data into actionable insights through dashboards, reporting automation, and applied analytics. My work includes building data models, developing Power BI dashboards, and working with SQL and Python to solve real-world business problems.
+
+Interested in projects involving data analysis, business intelligence, and data-driven decision making.
 
 <h3 align="left">My skill set</h3> 
 
