@@ -1,3 +1,7 @@
+<table>
+  <tr>
+    <td>
+
 <h3 align="left" id="macropower-title">:wave: Hi, I'm Alberto</h3>
 Data Analyst with a degree in Industrial Engineering, focused on turning data into decisions.
 
@@ -5,6 +9,12 @@ I enjoy working on practical data problems — building dashboards, automating r
 
 Based in Girona, Spain.
 
+    </td>
+    <td>
+      <img src="https://your-image-link.com" width="250"/>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left" id="macropower-title">:rocket: What I Do</h3>
 
