@@ -3,6 +3,8 @@ I'm a Data Analyst with a degree in Industrial Engineering, focused on turning d
 
 I enjoy working on practical data problems — building dashboards, automating reporting, and finding ways to make data actually useful for businesses.
 
+Based in Girona, Spain.
+
 
 <h3 align="left" id="macropower-title">:rocket: What I Do</h3>
 
